@@ -40,7 +40,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://shorturl.at/ZJCZ4"  />
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTFxcW9uazltdDB3eTV5dm04NjE5bjVidWgzczRhdWt6bnM4aWM3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
 
 ###
 
