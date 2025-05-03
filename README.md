@@ -58,9 +58,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/threedotjs/000000" height="40" alt="threejs logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="40" alt="astro logo"  />
-  <img width="12" />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="42" height="42" />
   <img width="12" />
