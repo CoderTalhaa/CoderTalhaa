@@ -5,7 +5,7 @@
 ###
 
 <p align="center">
-  <a  href="https://twitter.com/@CoderTalhaa" target="_blank" rel="noopener noreferrer">
+  <a href="https://twitter.com/@CoderTalhaa" target="_blank" rel="noopener noreferrer">
     <img src="px.png" width="60" height="60" alt="twitter logo">
   </a>
   <a href="https://www.linkedin.com/in/talha-83984xb/" target="_blank" rel="noopener noreferrer">
@@ -21,6 +21,7 @@
     <img src="google.png" width="60" height="60" alt="gmail logo">
   </a>
 </p>
+
 
 
 
