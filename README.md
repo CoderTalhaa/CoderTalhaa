@@ -1,5 +1,5 @@
 <div align="center">
-  <img  width="100%" src="Group 4.png"  />
+  <img  width="100%" height="60%" src="mario-coding.gif"  />
 </div>
 
 ###
@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="left">Sup! I’m Talha</h1>
+<h1 align="left">Hi! I’m <span font="">M</span>Talha</h1>
 
 ###
 
