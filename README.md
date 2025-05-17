@@ -4,20 +4,25 @@
 
 ###
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <a target="_blank" href="https://twitter.com/@CoderTalhaa" style="display: inline-block; ">
-    <img src="px.png" width="60" height="60" alt="twitter logo" />
+<p align="center">
+  <a  href="https://twitter.com/@CoderTalhaa" target="_blank" rel="noopener noreferrer">
+    <img src="px.png" width="60" height="60" alt="twitter logo">
   </a>
-  <a target="_blank" href="https://www.linkedin.com/in/talha-83984xb/" style="display: inline-block;">
-    <img src="pi.png" width="60" height="60" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/talha-83984xb/" target="_blank" rel="noopener noreferrer">
+    <img src="linkedin.png" width="60" height="60" alt="linkedin logo">
   </a>
-  <a target="_blank" href="https://www.instagram.com/talhadev7" style="display: inline-block;">
-    <img src="ta.png" width="60" height="60" alt="instagram logo" />
+  <a href="https://www.instagram.com/talhadev7" target="_blank" rel="noopener noreferrer">
+    <img src="pi.png" width="60" height="60" alt="instagram logo">
   </a>
-  <a target="_blank" href="https://www.youtube.com/@7xhub" style="display: inline-block;">
-    <img src="py.png" width="60" height="60" alt="youtube logo" />
+  <a href="https://www.youtube.com/@7xhub" target="_blank" rel="noopener noreferrer">
+    <img src="py.png" width="60" height="60" alt="youtube logo">
   </a>
-</div>
+  <a href="mailto:mtalhav7@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="google.png" width="60" height="60" alt="gmail logo">
+  </a>
+</p>
+
+
 
 ###
 
