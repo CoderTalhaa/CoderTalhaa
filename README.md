@@ -30,7 +30,7 @@
 ###
 
 <p align="left">🚀 currently learning shaders (GLSL)<br>👨🏼‍💻 working as a web developer since 2023<br>🎬 just started with my youtube channel 3DLeveling<br>📫 How to reach me: <a href="mailto:mtalhav7@gmail.com">mtalhav7@gmail.com</a>
-  </p>
+</p>
 
 ###
 
