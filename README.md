@@ -1,54 +1,23 @@
 <div align="center">
-  <img  width="100%" height="60%" src="mario-coding.gif"  />
+  <img  width="100%" height="40%" src="mario-coding.gif"  />
 </div>
 
-###
+# Hey there,
 
-<p align="center">
-  <a href="https://twitter.com/@CoderTalhaa" target="_blank" rel="noopener noreferrer">
-    <img src="px.png" width="60" height="60" alt="twitter logo">
-  </a>
-  <a href="https://www.linkedin.com/in/talha-83984xb/" target="_blank" rel="noopener noreferrer">
-    <img src="linkedin.png" width="60" height="60" alt="linkedin logo">
-  </a>
-  <a href="https://www.instagram.com/talhadev7" target="_blank" rel="noopener noreferrer">
-    <img src="pi.png" width="60" height="60" alt="instagram logo">
-  </a>
-  <a href="https://www.youtube.com/@7xhub" target="_blank" rel="noopener noreferrer">
-    <img src="py.png" width="60" height="60" alt="youtube logo">
-  </a>
-  <a href="mailto:mtalhav7@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="google.png" width="60" height="60" alt="gmail logo">
-  </a>
+I'm **Talha**, a self-taught frontend and creative developer.  
+I like making websites that look cool and feel good to use.  
+Just trying to turn ideas into real, fun stuff on the web.
+
+### Currently Grinding
+- **Three.js**
+- **Shaders**
+- **Creative web interactions**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,threejs,blender&theme=dark" />
 </p>
 
-
-
-
-###
-
-<h1 align="left">Hi! I’m <span font="">M</span>Talha</h1>
-
-###
-
-<h2 align="center">A passionate Frontend Developer & Web Designer <br>| WebGL Specialist 🌐</h2>
-
-###
-
-<p align="left">🚀 currently learning shaders (GLSL)<br>👨🏼‍💻 working as a web developer since 2023<br>🎬 just started with my youtube channel 3DLeveling<br>📫 How to reach me: <a href="mailto:mtalhav7@gmail.com">mtalhav7@gmail.com</a>
-</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTFxcW9uazltdDB3eTV5dm04NjE5bjVidWgzczRhdWt6bnM4aWM3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
-
-###
+<!-- <h3 align="left">🛠 Language and tools</h3>
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
@@ -70,12 +39,12 @@
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/webflow/4353FF" height="40" alt="webflow logo"  />
-</div>
+</div> -->
 
 ###
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+</picture> -->
