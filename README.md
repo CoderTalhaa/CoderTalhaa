@@ -1,8 +1,6 @@
-<div align="center">
-  <img  width="100%" height="40%" src="mario-coding.gif"  />
-</div>
+<img align="right" src="mario-coding.gif" width="50%" alt="Coding Mario" />
 
-# Hey there,
+### Hey there,
 
 I'm **Talha**, a self-taught frontend and creative developer.  
 I like making websites that look cool and feel good to use.  
@@ -16,6 +14,8 @@ Just trying to turn ideas into real, fun stuff on the web.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nextjs,threejs,blender&theme=dark" />
 </p>
+
+
 
 <!-- <h3 align="left">🛠 Language and tools</h3>
 
